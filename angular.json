@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pet-project-angular"
+    }
+  },
+  "defaultProject": "pet-project-angular",
+  "cli": {
+    "analytics": "11fabf59-ad2c-4354-a99e-998cdab221f2"
+  }
 }
